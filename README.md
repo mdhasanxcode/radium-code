@@ -1,10 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
 
 **radium-code/radium-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 👨🏼‍🎓  My name is MD RAKIB HASAN
 - 🖥  Data Analyst
 - 🖥  Studying Machine Learning and Quantum computing
 - 🎓 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Technology Sydney, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸6
