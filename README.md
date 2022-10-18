@@ -24,7 +24,7 @@ Sorry, was checking my check-list. Learning SQL Right Now.
 
 
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 hope 𝚝𝚘...
-	- Impliment Quantum Computing in Machine Learning
+	- Implement Quantum Computing in Machine Learning
 	- 𝙰𝚍𝚍 some data analysis project on Github
 	- 𝙶𝚎𝚝 𝚊 𝙵𝙰𝙰𝙽𝙶𝙼+ 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙 (𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚙𝚘𝚠𝚎𝚛 𝚝𝚘 𝚙𝚕𝚎𝚊𝚜𝚎 𝚑𝚒𝚛𝚎 𝚖𝚎)
 
