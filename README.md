@@ -6,7 +6,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 👨🏼‍🎓  My name is MD RAKIB HASAN
-- 🖥  Data Analyst
+- 🖥  Data Science Aspirant
 - 🖥  Studying Machine Learning and Quantum computing
 - 🎓 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Technology Sydney, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸6
 
@@ -15,10 +15,10 @@
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-
+Learning Web Scrapping!
 ```
 
-
+##
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 hope 𝚝𝚘...
 	- Implement Quantum Computing in Machine Learning
 	- 𝙰𝚍𝚍 some data analysis project on Github
