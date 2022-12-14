@@ -15,12 +15,7 @@
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-Ummm...🤔🤔 
-Python - Check
-Power BI - Check 
-Excel - Check
-SQL??
-Sorry, was checking my check-list. Learning SQL Right Now.
+
 ```
 
 
