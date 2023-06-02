@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**radium-code/radium-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mdhasanxcode/mdhasanxcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
